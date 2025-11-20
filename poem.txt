@@ -5,4 +5,5 @@ Pink
 Orange
 Blue
 Red
+Yellow
 These are the colours of the RAINBOW.
